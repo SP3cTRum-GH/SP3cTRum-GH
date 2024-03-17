@@ -1,16 +1,20 @@
-### Hi there 👋
+<div align = "center">
+  
+# SP3cTRum's Github
+  
+---
 
-<!--
-**SP3cTRum-GH/SP3cTRum-GH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Languages
+![Java](https://img.shields.io/badge/Java-E89844?style=for-the-badge&logo=openjdk&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white) ![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
 
-Here are some ideas to get you started:
+### Skills
+![Android](https://img.shields.io/badge/Android-34A853?style=for-the-badge&logo=android&logoColor=white) ![IOS](https://img.shields.io/badge/IOS-0D96F6?style=for-the-badge&logo=ios&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Projects
+
+|Project|Description|
+|:---:|:---:|
+|[보행자용 네비게이션](https://github.com/SP3cTRum-GH/NaviForWalkers_Integration)|CCTV위치를 이용한 경로계산및 안내를 구현한 보행자용 네비게이션 시스템|
+|[스케쥴 매니저](https://github.com/SP3cTRum-GH/ScheduleManager_Android)|캘린더와 계획표를 통합적으로 관리할 수있는 통합일정관리어플리케이션|
+
+</div>
