@@ -10,6 +10,8 @@
 ### Skills
 ![Android](https://img.shields.io/badge/Android-34A853?style=for-the-badge&logo=android&logoColor=white) ![IOS](https://img.shields.io/badge/IOS-0D96F6?style=for-the-badge&logo=ios&logoColor=white)
 
+---
+
 ### Projects
 
 |Project|Description|
