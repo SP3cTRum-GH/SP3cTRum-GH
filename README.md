@@ -19,5 +19,6 @@
 |[보행자용 네비게이션](https://github.com/SP3cTRum-GH/NaviForWalkers_Integration)|CCTV위치를 이용한 경로계산및 안내를 구현한 보행자용 네비게이션 시스템|
 |[스케쥴 매니저](https://github.com/SP3cTRum-GH/ScheduleManager_Android)|캘린더와 계획표를 통합적으로 관리할 수있는 통합일정관리어플리케이션|
 |[3Steps](https://github.com/SP3cTRum-GH/TimeBoxing_Flutter)|TimeBoxing이론을 활용한 자기관리어플리케이션|
+|[통장4분할 도우미](https://github.com/SP3cTRum-GH/SplitBankBook)|통장4분할법을 도와주는 가이드 어플리케이션|
 
 </div>
